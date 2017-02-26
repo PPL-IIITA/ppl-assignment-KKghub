@@ -1,7 +1,7 @@
 # Title : IPPL430C Assignment
 
 # Tested Environment
-Operating System : Linux Mint 17.3 Cinnamon 64 bit <br.>
+Operating System : Linux Mint 17.3 Cinnamon 64 bit <br/>
 Compiler : g++ (Ubuntu 4.8.4-2ubuntu1~14.04.3) 4.8.4 <br/>
 System : HP Notebook 15-ac026tx 64 bit <br/>
 Processor : Intel Core i5-5200U @ 2.20GHzx2 <br/>
