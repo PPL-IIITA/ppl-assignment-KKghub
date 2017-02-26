@@ -11,16 +11,16 @@ Processor : Intel Core i5-5200U @ 2.20GHzx2 <br/>
 Note : All the builds are done in Linux gnome-terminal at "PPL_ssignment/" directory
 
 To build testing utility : <br/> 
-  g++ ./src/tesing_utility.cpp -o Testing_Utility
+  g++ ./src/tesing_utility.cpp -o Testing_Utility <br/>
 To build question 1 : <br/>
-  g++ main1.cpp -std=c++11 -o question1
+  g++ main1.cpp -std=c++11 -o question1 <br/>
 To build question 2 : <br/>
-  g++ main2.cpp -std=c++11 -o quesion2
+  g++ main2.cpp -std=c++11 -o quesion2 <br/>
 
 # Documentation
 The Documentaion and class diagrams can be found in ./Documentation folder
 
 # Submitted by
-Kartikey Kumar
-LIT2015035
-section 'B'
+Kartikey Kumar <br/>
+LIT2015035 <br/>
+section 'B' <br/>
