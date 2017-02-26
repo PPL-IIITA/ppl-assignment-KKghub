@@ -8,7 +8,7 @@ Processor : Intel Core i5-5200U @ 2.20GHzx2 <br/>
 
 # Build
 
-Note : All the builds are done in Linux gnome-terminal at "PPL_ssignment/" directory
+Note : All the builds are done in Linux gnome-terminal at "PPL_assignment/" directory
 
 To build testing utility : g++ ./src/tesing_utility.cpp -o Testing_Utility 
 
