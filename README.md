@@ -6,7 +6,7 @@ Compiler : g++ (Ubuntu 4.8.4-2ubuntu1~14.04.3) 4.8.4 <br/>
 System : HP Notebook 15-ac026tx 64 bit <br/>
 Processor : Intel Core i5-5200U @ 2.20GHzx2 <br/>
 
-# $Build
+*Build*
 
 Note : All the builds are done in Linux gnome-terminal at "PPL_ssignment/" directory
 
