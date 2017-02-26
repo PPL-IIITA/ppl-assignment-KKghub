@@ -17,7 +17,8 @@ To build question 1 : g++ main1.cpp -std=c++11 -o question1
 To build question 2 : g++ main2.cpp -std=c++11 -o quesion2
 
 # Documentation
-The Documentaion and class diagrams can be found in ./Documentation folder
+The Documentaion and class diagrams can be found in ./Documentation/html/index.html 
+The Documentation is created by Doxygen.
 
 # Submitted by
 Kartikey Kumar <br/>
